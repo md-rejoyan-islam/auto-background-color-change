@@ -3,7 +3,7 @@
 
 ### Using Tools
 * HTML:5
-* Raw CSS
+* CSS
 * JavaScript
 
 ### Using JavaScript
